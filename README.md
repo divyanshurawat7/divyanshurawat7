@@ -151,7 +151,7 @@ I enjoy the intersection of **software engineering and data-driven problem solvi
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=divyanshurawat7&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=divyanshurawat7&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=divyanshurawat7&theme=tokyonight&hide_border=true)
 
 </div>
 
