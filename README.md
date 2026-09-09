@@ -48,7 +48,7 @@
       </p>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4726-8022-22a5d7101e05.gif" width="100%" alt="Cyberpunk Developer Coding Setup" style="border-radius: 10px;" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Futuristic Developer Workspace" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(56, 189, 248, 0.25);" />
     </td>
   </tr>
 </table>
@@ -81,12 +81,74 @@ divyanshu@dev-station:~$ neofetch --profile
 <!-- =================================================== -->
 <div align="center">
   <h2>🛠️ Tech Stack & Arsenal</h2>
-  <p><i>The languages, frameworks, and data platforms I work with daily:</i></p>
+  <p><i>The languages, frameworks, and data platforms I work with daily (hover over any icon for details):</i></p>
 
-  <!-- SKILLICONS STRIP -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,nextjs,flask,tailwind,html,css,sklearn,pytorch,pandas,numpy,postgres,mysql,git,github,vscode,postman,docker,netlify&perline=10&theme=dark" alt="Tech Stack Icons" />
-  </a>
+  <!-- INTERACTIVE HOVER ICONS GRID -->
+  <p align="center">
+    <a href="https://python.org" target="_blank" rel="noreferrer" title="Python 3.12 · Core Programming & AI">
+      <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python" />
+    </a>
+    &nbsp;
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript · Scalable Typing & Modern Web">
+      <img src="https://skillicons.dev/icons?i=ts" width="50" height="50" alt="TypeScript" />
+    </a>
+    &nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript · Interactive ES6+ Web">
+      <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript" />
+    </a>
+    &nbsp;
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js 14 · Full-Stack React Framework">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js" />
+    </a>
+    &nbsp;
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" title="Flask · Lightweight Python Backend">
+      <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask" />
+    </a>
+    &nbsp;
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind CSS · Responsive Modern UI">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind" />
+    </a>
+    &nbsp;
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" title="Scikit-Learn · Machine Learning Algorithms">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="50" height="50" alt="Scikit-Learn" />
+    </a>
+    &nbsp;
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer" title="PyTorch · Deep Learning & Transformers">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50" alt="PyTorch" />
+    </a>
+    <br/><br/>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" title="Pandas · Data Manipulation & Analysis">
+      <img src="https://skillicons.dev/icons?i=pandas" width="50" height="50" alt="Pandas" />
+    </a>
+    &nbsp;
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer" title="NumPy · Vectorized Numerical Computing">
+      <img src="https://skillicons.dev/icons?i=numpy" width="50" height="50" alt="NumPy" />
+    </a>
+    &nbsp;
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" title="PostgreSQL · Enterprise Relational DB">
+      <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL" />
+    </a>
+    &nbsp;
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL · Relational Data Storage">
+      <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL" />
+    </a>
+    &nbsp;
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git · Distributed Version Control">
+      <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/divyanshurawat7" target="_blank" rel="noreferrer" title="GitHub · Open Source & CI/CD">
+      <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" />
+    </a>
+    &nbsp;
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" title="VS Code · Core Code Editor">
+      <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" />
+    </a>
+    &nbsp;
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker · Microservices & Containerization">
+      <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker" />
+    </a>
+  </p>
 </div>
 
 <br/>
@@ -95,13 +157,85 @@ divyanshu@dev-station:~$ neofetch --profile
   <summary><b>🔍 Detailed Categorized Breakdown [Click to collapse]</b></summary>
   <br/>
 
-| Domain | Technologies & Libraries |
-| :--- | :--- |
-| 🤖 **AI & Machine Learning** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Groq API](https://img.shields.io/badge/Groq_API-FF6B35?style=flat-square&logoColor=white) ![LLMs](https://img.shields.io/badge/LLM_Prompting-8A2BE2?style=flat-square) ![Voice I/O](https://img.shields.io/badge/Speech_Recognition-20B2AA?style=flat-square) |
-| 📊 **Data Science & BI** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Power Query](https://img.shields.io/badge/Power_Query-008080?style=flat-square) ![DAX](https://img.shields.io/badge/DAX-232F3E?style=flat-square) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square) |
-| 💻 **Frontend & UI** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| ⚙️ **Backend & APIs** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square) ![Google OAuth](https://img.shields.io/badge/Google_OAuth_2.0-4285F4?style=flat-square&logo=google&logoColor=white) ![Pexels API](https://img.shields.io/badge/Pexels_API-05A081?style=flat-square) |
-| 🛠️ **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="32%" align="center"><b>Ecosystem / Focus Area</b></th>
+      <th width="68%" align="center"><b>Technologies & Arsenal</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left">
+        <b>🤖 &nbsp; AI & Machine Learning</b><br/>
+        <sub><i>LLMs · Scikit-Learn · Groq APIs</i></sub>
+      </td>
+      <td align="left">
+        <a href="https://python.org" title="Python"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="26" /></a>
+        <a href="https://scikit-learn.org" title="Scikit-Learn"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="26" /></a>
+        <a href="https://groq.com" title="Groq API"><img src="https://img.shields.io/badge/Groq_API-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white" height="26" /></a>
+        <a href="https://openai.com" title="LLM Prompt Engineering"><img src="https://img.shields.io/badge/LLM_Prompting-8A2BE2?style=for-the-badge" height="26" /></a>
+        <a href="https://cloud.google.com/speech-to-text" title="Multilingual Voice Recognition"><img src="https://img.shields.io/badge/Voice_AI-20B2AA?style=for-the-badge" height="26" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <b>📊 &nbsp; Data Science & BI</b><br/>
+        <sub><i>Power BI · DAX · EDA Modeling</i></sub>
+      </td>
+      <td align="left">
+        <a href="https://powerbi.microsoft.com" title="Microsoft Power BI"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="26" /></a>
+        <a href="https://pandas.pydata.org" title="Pandas"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="26" /></a>
+        <a href="https://numpy.org" title="NumPy"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="26" /></a>
+        <a href="https://learn.microsoft.com/en-us/power-query/" title="Power Query"><img src="https://img.shields.io/badge/Power_Query-008080?style=for-the-badge" height="26" /></a>
+        <a href="https://learn.microsoft.com/en-us/dax/" title="DAX Measures"><img src="https://img.shields.io/badge/DAX-232F3E?style=for-the-badge" height="26" /></a>
+        <a href="https://matplotlib.org" title="Matplotlib"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" height="26" /></a>
+        <a href="https://seaborn.pydata.org" title="Seaborn"><img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" height="26" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <b>💻 &nbsp; Frontend & UI</b><br/>
+        <sub><i>Next.js · TypeScript · Tailwind CSS</i></sub>
+      </td>
+      <td align="left">
+        <a href="https://nextjs.org" title="Next.js"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="26" /></a>
+        <a href="https://www.typescriptlang.org" title="TypeScript"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="26" /></a>
+        <a href="https://developer.mozilla.org" title="JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="26" /></a>
+        <a href="https://tailwindcss.com" title="Tailwind CSS"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="26" /></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="26" /></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="26" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <b>⚙️ &nbsp; Backend & APIs</b><br/>
+        <sub><i>Flask · REST APIs · OAuth 2.0</i></sub>
+      </td>
+      <td align="left">
+        <a href="https://flask.palletsprojects.com" title="Flask Backend"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="26" /></a>
+        <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" height="26" />
+        <a href="https://developers.google.com/identity" title="Google OAuth 2.0"><img src="https://img.shields.io/badge/Google_OAuth_2.0-4285F4?style=for-the-badge&logo=google&logoColor=white" height="26" /></a>
+        <a href="https://www.pexels.com/api/" title="Pexels API"><img src="https://img.shields.io/badge/Pexels_API-05A081?style=for-the-badge" height="26" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <b>🛠️ &nbsp; DevOps & Tooling</b><br/>
+        <sub><i>Git · VS Code · Docker · Netlify</i></sub>
+      </td>
+      <td align="left">
+        <a href="https://git-scm.com" title="Git"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="26" /></a>
+        <a href="https://github.com" title="GitHub"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="26" /></a>
+        <a href="https://code.visualstudio.com" title="VS Code"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="26" /></a>
+        <a href="https://jupyter.org" title="Jupyter Notebook"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="26" /></a>
+        <a href="https://www.docker.com" title="Docker"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="26" /></a>
+        <a href="https://www.netlify.com" title="Netlify"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="26" /></a>
+        <a href="https://www.postman.com" title="Postman"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="26" /></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 </details>
 
