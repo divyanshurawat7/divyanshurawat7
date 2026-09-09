@@ -1,10 +1,5 @@
 <div align="center">
 
-  <!-- CINEMATIC CODING VIBES HERO BANNER -->
-  <img src="./assets/vibes.gif" width="100%" alt="Coding Vibes Banner" style="border-radius: 12px;" />
-
-  <br/><br/>
-
   <!-- HERO BANNER -->
   <a href="https://github.com/divyanshurawat7">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:0d1117,30:161b22,70:1e293b,100:0d1117&height=220&section=header&text=Divyanshu%20Rawat&fontSize=42&fontColor=38bdf8&fontAlignY=36&desc=AI%2FML%20Engineer%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Full-Stack%20Builder&descAlignY=56&descAlign=50&animation=fadeIn" width="100%" alt="Header Banner" />
