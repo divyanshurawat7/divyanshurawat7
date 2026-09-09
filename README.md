@@ -236,7 +236,7 @@ divyanshu@dev-station:~$ neofetch --profile
   <!-- ROW 1: STATS & STREAK -->
   <p align="center">
     <a href="https://github.com/divyanshurawat7">
-      <img src="https://github-readme-stats.vercel.app/api?username=divyanshurawat7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&count_private=true" alt="GitHub Stats" height="175" />
+      <img src="https://github-stats-extended.vercel.app/api?username=divyanshurawat7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="175" />
     </a>
     <a href="https://github.com/divyanshurawat7">
       <img src="https://streak-stats.demolab.com?user=divyanshurawat7&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=ff7b72&currStreakLabel=38bdf8" alt="GitHub Streak" height="175" />
@@ -246,14 +246,14 @@ divyanshu@dev-station:~$ neofetch --profile
   <!-- ROW 2: TOP LANGUAGES -->
   <p align="center">
     <a href="https://github.com/divyanshurawat7">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshurawat7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages" height="165" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=divyanshurawat7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
     </a>
   </p>
 
   <!-- ROW 3: ACTIVITY GRAPH -->
   <p align="center">
     <a href="https://github.com/divyanshurawat7">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshurawat7&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=f7df1e&area=true&hide_title=false" width="96%" alt="GitHub Activity Graph" />
+      <img src="https://github-activity-graph.vercel.app/graph?username=divyanshurawat7&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=f7df1e&area=true&hide_title=false" width="96%" alt="GitHub Activity Graph" />
     </a>
   </p>
 </div>
@@ -261,27 +261,21 @@ divyanshu@dev-station:~$ neofetch --profile
 <br/>
 
 <!-- =================================================== -->
-<!-- CONTRIBUTION SNAKE & INTERACTIVE CORNER            -->
+<!-- INTERACTIVE RETRO ARCADE & PLAYGROUND               -->
 <!-- =================================================== -->
 <div align="center">
-  <h2>🐍 Contribution Playground</h2>
-  <p><i>Watch the snake slither through my commits:</i></p>
+  <h2>🕹️ Interactive Dev Arcade & Playground</h2>
+  <p><i>Take a break, trigger an easter egg, or challenge high scores:</i></p>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyanshurawat7/divyanshurawat7/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyanshurawat7/divyanshurawat7/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/divyanshurawat7/divyanshurawat7/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
-
-<div align="center">
   <br/>
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="420" alt="Cyberpunk Retro Dev Terminal" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(56, 189, 248, 0.2);" />
   <br/><br/>
-  <p><b>🎮 Take a Break & Play an Easter Egg Game:</b></p>
-  <a href="https://playsnake.org/" target="_blank"><img src="https://img.shields.io/badge/Arcade-Snake_Classic-00FF66?style=for-the-badge&logo=retroarch&logoColor=black" alt="Play Snake" /></a>
-  <a href="https://www.google.com/logos/2010/pacman10-i.html" target="_blank"><img src="https://img.shields.io/badge/Arcade-Pac--Man-FFFF00?style=for-the-badge&logo=nintendo&logoColor=black" alt="Play Pac-Man" /></a>
-  <a href="https://chromedino.com/" target="_blank"><img src="https://img.shields.io/badge/Arcade-Chrome_Dino-E0E0E0?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Play Dino" /></a>
+  <a href="https://playsnake.org/" target="_blank"><img src="https://img.shields.io/badge/PLAY-Snake_Classic-00FF66?style=for-the-badge&logo=retroarch&logoColor=black" alt="Play Snake" /></a>
+  &nbsp;
+  <a href="https://www.google.com/logos/2010/pacman10-i.html" target="_blank"><img src="https://img.shields.io/badge/PLAY-Pac--Man-FFFF00?style=for-the-badge&logo=nintendo&logoColor=black" alt="Play Pac-Man" /></a>
+  &nbsp;
+  <a href="https://chromedino.com/" target="_blank"><img src="https://img.shields.io/badge/PLAY-Chrome_Dino-E0E0E0?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Play Dino" /></a>
+  &nbsp;
   <a href="https://play2048.co/" target="_blank"><img src="https://img.shields.io/badge/Arcade-2048_Puzzle-EDC22E?style=for-the-badge&logoColor=white" alt="Play 2048" /></a>
 </div>
 
