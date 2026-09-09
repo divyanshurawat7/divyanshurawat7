@@ -83,72 +83,10 @@ divyanshu@dev-station:~$ neofetch --profile
   <h2>🛠️ Tech Stack & Arsenal</h2>
   <p><i>The languages, frameworks, and data platforms I work with daily (hover over any icon for details):</i></p>
 
-  <!-- INTERACTIVE HOVER ICONS GRID -->
-  <p align="center">
-    <a href="https://python.org" target="_blank" rel="noreferrer" title="Python 3.12 · Core Programming & AI">
-      <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python" />
-    </a>
-    &nbsp;
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript · Scalable Typing & Modern Web">
-      <img src="https://skillicons.dev/icons?i=ts" width="50" height="50" alt="TypeScript" />
-    </a>
-    &nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript · Interactive ES6+ Web">
-      <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript" />
-    </a>
-    &nbsp;
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js 14 · Full-Stack React Framework">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js" />
-    </a>
-    &nbsp;
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" title="Flask · Lightweight Python Backend">
-      <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask" />
-    </a>
-    &nbsp;
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind CSS · Responsive Modern UI">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind" />
-    </a>
-    &nbsp;
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" title="Scikit-Learn · Machine Learning Algorithms">
-      <img src="https://skillicons.dev/icons?i=sklearn" width="50" height="50" alt="Scikit-Learn" />
-    </a>
-    &nbsp;
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer" title="PyTorch · Deep Learning & Transformers">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50" alt="PyTorch" />
-    </a>
-    <br/><br/>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" title="Pandas · Data Manipulation & Analysis">
-      <img src="https://skillicons.dev/icons?i=pandas" width="50" height="50" alt="Pandas" />
-    </a>
-    &nbsp;
-    <a href="https://numpy.org/" target="_blank" rel="noreferrer" title="NumPy · Vectorized Numerical Computing">
-      <img src="https://skillicons.dev/icons?i=numpy" width="50" height="50" alt="NumPy" />
-    </a>
-    &nbsp;
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" title="PostgreSQL · Enterprise Relational DB">
-      <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL" />
-    </a>
-    &nbsp;
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL · Relational Data Storage">
-      <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL" />
-    </a>
-    &nbsp;
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git · Distributed Version Control">
-      <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/divyanshurawat7" target="_blank" rel="noreferrer" title="GitHub · Open Source & CI/CD">
-      <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" />
-    </a>
-    &nbsp;
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" title="VS Code · Core Code Editor">
-      <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" />
-    </a>
-    &nbsp;
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker · Microservices & Containerization">
-      <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker" />
-    </a>
-  </p>
+  <!-- SKILLICONS STRIP (CLEAN & RETINA) -->
+  <a href="#-detailed-categorized-breakdown-click-to-collapse">
+    <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,flask,tailwind,html,css,sklearn,pytorch,postgres,mysql,git,github,vscode,docker,postman,netlify&perline=9&theme=dark" alt="Tech Stack Icons" />
+  </a>
 </div>
 
 <br/>
