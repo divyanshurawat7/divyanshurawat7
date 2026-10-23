@@ -1,75 +1,95 @@
 <div align="center">
 
-  <!-- HERO BANNER -->
-  <a href="https://github.com/divyanshurawat7">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:0d1117,30:161b22,70:1e293b,100:0d1117&height=220&section=header&text=Divyanshu%20Rawat&fontSize=42&fontColor=38bdf8&fontAlignY=36&desc=AI%2FML%20Engineer%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Full-Stack%20Builder&descAlignY=56&descAlign=50&animation=fadeIn" width="100%" alt="Header Banner" />
-  </a>
-
-  <!-- TYPING SVG ANIMATION -->
-  <a href="https://github.com/divyanshurawat7">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Intelligent+AI-Powered+Applications+%F0%9F%A4%96;Full-Stack+Architect+%26+Applied+ML+Engineer+%E2%9A%A1;Turning+Complex+Data+into+Actionable+Insights+%F0%9F%93%8A;Crafting+Scalable+Solutions+with+Python+%26+Next.js+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
-  <!-- QUICK STATUS BADGES -->
+  <!-- ================= TOP FLOATING NAVIGATION ================= -->
   <p align="center">
-    <a href="https://www.linkedin.com/in/divyanshurawat07/"><img src="https://img.shields.io/badge/Status-Open_for_Opportunities-success?style=for-the-badge&logo=codeforces&logoColor=white" alt="Status" /></a>
-    <a href="https://github.com/divyanshurawat7"><img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20Data%20Science-blueviolet?style=for-the-badge&logo=python&logoColor=white" alt="Focus" /></a>
-    <a href="mailto:luckyrawat96673@gmail.com"><img src="https://img.shields.io/badge/Contact-Get_in_Touch-007acc?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact" /></a>
+    <a href="#about-me"><img src="https://img.shields.io/badge/01_ABOUT-0d1117?style=for-the-badge&logo=target&logoColor=38bdf8" /></a>
+    <a href="#terminal-specs"><img src="https://img.shields.io/badge/02_ARCHETYPE-0d1117?style=for-the-badge&logo=gnometerminal&logoColor=38bdf8" /></a>
+    <a href="#tech-arsenal"><img src="https://img.shields.io/badge/03_STACK-0d1117?style=for-the-badge&logo=buffer&logoColor=38bdf8" /></a>
+    <a href="#architecture-workflow"><img src="https://img.shields.io/badge/04_SYSTEMS-0d1117?style=for-the-badge&logo=diagramsdotnet&logoColor=38bdf8" /></a>
+    <a href="#flagship-projects"><img src="https://img.shields.io/badge/05_PROJECTS-0d1117?style=for-the-badge&logo=rocket&logoColor=38bdf8" /></a>
+    <a href="#analytics-cadence"><img src="https://img.shields.io/badge/06_METRICS-0d1117?style=for-the-badge&logo=github&logoColor=38bdf8" /></a>
+    <a href="#dev-arcade"><img src="https://img.shields.io/badge/07_ARCADE-0d1117?style=for-the-badge&logo=retroarch&logoColor=38bdf8" /></a>
+    <a href="#connect"><img src="https://img.shields.io/badge/08_CONNECT-0d1117?style=for-the-badge&logo=handshake&logoColor=38bdf8" /></a>
+  </p>
+
+  <!-- ================= ULTRA HERO BANNER ================= -->
+  <a href="https://github.com/divyanshurawat7">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:090d16,25:0f172a,50:1e1b4b,75:0f172a,100:090d16&height=260&section=header&text=DIVYANSHU%20RAWAT&fontSize=50&fontColor=38bdf8&fontAlignY=36&desc=AI%2FML%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Full-Stack%20Systems%20Architect&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" alt="Header Banner" />
+  </a>
+
+  <!-- ================= TYPING ANIMATION ================= -->
+  <a href="https://github.com/divyanshurawat7">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Architecting+Autonomous+Agentic+AI+%26+LLM+Pipelines;%F0%9F%A4%96+Deploying+Low-Latency+Groq+Inference+%26+Bilingual+Voice+AI;%F0%9F%93%8A+Transforming+Complex+High-Dim+Data+into+Executive+Power+BI+Insights;%F0%9F%9B%A1%EF%B8%8F+Engineering+Production-Grade+Full-Stack+Platforms+with+Next.js" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <!-- ================= STATUS PILLS ================= -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/divyanshurawat07/"><img src="https://img.shields.io/badge/Status-🟢_Open_for_High_Impact_Roles-000000?style=for-the-badge&labelColor=0d1117&color=22c55e" alt="Status" /></a>
+    <a href="https://github.com/divyanshurawat7"><img src="https://img.shields.io/badge/Focus-Agentic_AI_%7C_MLOps_%7C_BI-000000?style=for-the-badge&labelColor=0d1117&color=6366f1" alt="Focus" /></a>
+    <a href="mailto:luckyrawat96673@gmail.com"><img src="https://img.shields.io/badge/Direct_Comms-luckyrawat96673@gmail.com-000000?style=for-the-badge&labelColor=0d1117&color=38bdf8" alt="Contact" /></a>
   </p>
 
 </div>
 
-<!-- GLOWING NEON LASER DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e9f12e15-4f1e-47ca-8268-2db984501a33.gif" width="100%" height="4px" alt="Neon Divider" />
+<!-- NEON GLOW DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e9f12e15-4f1e-47ca-8268-2db984501a33.gif" width="100%" height="3px" alt="Neon Divider" />
 <br/><br/>
 
 <!-- =================================================== -->
-<!-- TWO COLUMN ABOUT SECTION                            -->
+<!-- SECTION 01: ABOUT ME                                -->
 <!-- =================================================== -->
+<div id="about-me">
 <table>
   <tr>
-    <td width="60%" valign="top">
-      <h3>👨‍💻 About Me</h3>
+    <td width="62%" valign="top">
+      <h3 style="color:#38bdf8;">👨‍💻 Profiling: Divyanshu Rawat</h3>
       <p>
-        I'm <b>Divyanshu Rawat</b>, an <b>AI/ML Engineer</b> and <b>Full-Stack Developer</b> who loves engineering intelligent applications and translating complex, high-dimensional data into intuitive, high-impact business solutions.
+        I am an <b>AI/ML Engineer</b> and <b>Full-Stack Developer</b> dedicated to engineering intelligent, high-throughput systems. I focus on taking advanced mathematical concepts and cutting-edge machine learning pipelines from research notebooks into scalable, fault-tolerant web applications.
       </p>
       <p>
-        My experience spans orchestrating <b>Large Language Models (LLMs)</b> with voice interfaces, training predictive <b>Machine Learning regression models</b>, and architecting multi-page <b>Power BI analytics dashboards</b> powered by custom DAX measures.
+        My core skill set combines <b>predictive machine learning algorithms</b>, <b>large language model orchestration (Groq, LangChain, RAG)</b>, low-latency <b>voice processing pipelines</b>, and comprehensive <b>business intelligence modeling with Power BI and custom DAX measures</b>.
       </p>
       <p>
-        🔭 <b>Currently Building:</b> AI agents with Groq LLMs, real-time voice I/O, and data pipeline automation.<br/>
-        🌱 <b>Currently Exploring:</b> RAG architectures, LangChain/LlamaIndex agents, and deep statistical modeling.<br/>
-        🎯 <b>Core Philosophy:</b> Bridging the gap between robust machine learning algorithms and elegant, production-ready web experiences.
+        🎯 <b>The Engineering Goal:</b> To build systems where machine intelligence operates as an invisible, flawless backbone to user-facing applications.
       </p>
+      <hr style="border: 0.5px solid #1e293b;"/>
       <p>
-        📍 <b>Location:</b> India &nbsp;|&nbsp; 💬 <b>Ask me about:</b> Python, Scikit-Learn, Power BI, Next.js, LLMs
+        📍 <b>Location:</b> India &nbsp;|&nbsp; 
+        💬 <b>Ask me about:</b> Python, Scikit-Learn, PyTorch, Groq, Next.js, Power BI, DAX &nbsp;|&nbsp; 
+        ⚡ <b>Motto:</b> <i>Speed, Precision, and Scalability.</i>
       </p>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Futuristic Developer Workspace" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(56, 189, 248, 0.25);" />
+    <td width="38%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Futuristic Developer Workspace" style="border-radius: 12px; border: 1px solid #1e293b; box-shadow: 0 4px 24px rgba(56, 189, 248, 0.2);" />
     </td>
   </tr>
 </table>
+</div>
+
+<br/>
 
 <!-- =================================================== -->
-<!-- DEVELOPER TERMINAL / ARCHETYPE (UNIQUE HIGHLIGHT)    -->
+<!-- SECTION 02: DEVELOPER TERMINAL ARCHETYPE           -->
 <!-- =================================================== -->
+<div id="terminal-specs">
 <details open>
-  <summary><b>💻 System Specs & Developer Archetype [Click to collapse]</b></summary>
+  <summary><b>💻 System Specs, Environment & Developer Archetype [Click to collapse]</b></summary>
   <br/>
 
 ```bash
-divyanshu@dev-station:~$ neofetch --profile
-  ██████╗ ██████╗       OS: macOS Darwin / Ubuntu LTS (Dev Environment)
-  ██╔══██╗██╔══██╗      Host: AI & Data Engineering Workstation
-  ██║  ██║██████╔╝      Role: AI/ML Engineer · Data Analyst · Full-Stack Builder
-  ██║  ██║██╔══██╗      Primary Stack: Python, Scikit-learn, Flask, Next.js, Power BI
-  ██████╔╝██║  ██║      LLM Stack: Groq API, LangChain, Prompt Engineering, Multilingual Voice I/O
-  ╚═════╝ ╚═╝  ╚═╝      Data & BI: Pandas, NumPy, Power Query, DAX, Seaborn, Matplotlib
-                        Editor & Tools: VS Code, Jupyter Notebook, Git, Postman, Netlify
-                        Current Mission: Engineering agentic systems and high-throughput analytics
+divyanshu@workstation:~$ fastfetch --config dev-profile.json
+  ██████╗ ██████╗       User: Divyanshu Rawat (AI/ML & Systems Builder)
+  ██╔══██╗██╔══██╗      Host: High-Compute Deep Learning Workstation
+  ██║  ██║██████╔╝      Uptime: 24/7 Continuous Deployment & Iteration
+  ██║  ██║██╔══██╗      Core Runtime: Python 3.11+, Node.js 20+, C++
+  ██████╔╝██║  ██║      AI Engine: Groq LPU, PyTorch, Scikit-learn, LangChain, Hugging Face
+  ╚═════╝ ╚═╝  ╚═╝      Data & BI: Pandas, DAX Modeling, Power BI Service, Power Query, NumPy
+                        Full-Stack: Next.js 14, TypeScript, Tailwind CSS, Flask, REST APIs
+                        Databases: PostgreSQL, MySQL, Redis, Vector Databases
+                        Containers & Cloud: Docker, Git Actions, Vercel, Netlify
+                        Current Target: Autonomous Multi-Agent Reasoning & Scalable Analytics
 ```
 
 </details>
